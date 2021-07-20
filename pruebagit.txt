@@ -60,3 +60,8 @@ igual traer lo que haya en el repositorio pero cuando haya un tipo error
 git push origin master
 enviar lo que tenemos al servidor de github
 
+en el directorio home para crear llaves publicas y privadas
+ssh-keygen -t rsa -b 4096 -C "correo que esta asociado con git"
+
+
+
