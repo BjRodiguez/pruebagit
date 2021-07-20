@@ -50,3 +50,13 @@ clonar un repositorio
 
 git remote -v
 versines de origin
+
+git pull origin master
+traer lo que haya en el repositorio a nuestra carpeta
+
+it pull origin master --allow-unrealated-histories
+igual traer lo que haya en el repositorio pero cuando haya un tipo error
+
+git push origin master
+enviar lo que tenemos al servidor de github
+
