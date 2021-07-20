@@ -13,3 +13,27 @@ hoy hablaremos de historia
 
 
 vamooooo que se puede
+
+
+git reset 5f09e17c5f22a646cbeba5e83eeb144c86e52aa9 --hard
+sirve para volver a una version anterior de forma bruta
+
+git checkout 5f09e17c5f22a646cbeba5e83eeb144c86e52aa9 pruebagit.txt
+sirver tambien para voelver a una version anterior 
+
+git checkout master pruebagit.txt
+este regresa a su version original antes de hacer el cambio con el checkout
+
+git diff 
+sirve para comparar cambios entre versiones
+
+git log
+listar los cambios que se han hecho
+
+git log --stat
+lista los cambios pero en bytes
+
+git show
+
+muestra los cambios realizados 
+
