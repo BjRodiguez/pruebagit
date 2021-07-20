@@ -34,6 +34,13 @@ git log --stat
 lista los cambios pero en bytes
 
 git show
-
 muestra los cambios realizados 
 
+git branch "nombre de la cabecera"
+sirver tambien para cambiar de branch ya sea el master o el que se esta trabajando
+
+git checkout nobmre de la cabecera que le pusimos
+sirve para cambiar el branch en el que estamos trabajando
+
+git status
+tambien sirver para ver el branch actual en el que estamos trabajando
