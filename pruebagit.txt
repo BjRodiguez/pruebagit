@@ -44,3 +44,9 @@ sirve para cambiar el branch en el que estamos trabajando
 
 git status
 tambien sirver para ver el branch actual en el que estamos trabajando
+
+git remote add origin "link de repositorio"
+clonar un repositorio
+
+git remote -v
+versines de origin
